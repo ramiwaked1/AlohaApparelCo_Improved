@@ -1,4 +1,4 @@
-# Aloha
+# Project 1: Aloha Apparel Co.
 ![Alt text](http://i.imgur.com/CVN1WWR.png "Aloha")
 
 <p>My project was to create a homepage for a client at Aloha Apparel Co. using HTML and CSS.
